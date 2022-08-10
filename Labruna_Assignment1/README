@@ -1,0 +1,27 @@
+Nicholas LaBruna
+002273241
+labru104@mail.chapman.edu
+CPSC 350-02
+Assignment # 1
+
+Files Included:
+
+Assignment1Header.hpp
+Assignment1Implementation.cpp
+Assignment1Driver.hpp
+Makefile
+README
+
+References:
+www.tutorialspoint.com
+AbsoluteCPP, 5th Edition
+http://www.cplusplus.com/doc/tutorial/files/
+
+Notes:
+Because we couldn't use arrays, I had it take a command line argument in the main function, otherwise I would have had to use an array in argv
+
+
+Directions to start on linux:
+Once in directory, "make all"
+Then, for the name of the file you would like to run: "./<filename.exe>"
+In this Case, "./Assignment1Driver.exe" 

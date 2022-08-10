@@ -1,0 +1,35 @@
+Nicholas LaBruna
+002273241
+labru104@mail.chapman.edu
+CPSC 350-02
+Assignment # 4
+
+Files Included:
+AbstractList.h
+Assignment4Main.cpp
+GenDLLQueue.h
+GenDoublyLinkedList.h
+Makefile
+README
+Registrar.cpp
+Registrar.h
+Student.cpp
+Student.h
+Testfile.txt
+Window.cpp
+Window.h
+
+References:
+www.tutorialspoint.com
+AbsoluteCPP, 5th Edition
+http://www.cplusplus.com/forum/beginner/1988/
+http://www.cplusplus.com/doc/tutorial/files/
+http://www.cplusplus.com/doc/oldtutorial/templates/
+
+Notes:
+Computer broke two days before assignment was due and I lost everything. I was able to build my linked list and queue, and almost get to the working solution but fell just short.
+
+Direction  to start on linux:
+Once in directory, "make all"
+Then, for the name of the file you would like to run: "./<filename.exe>"
+In this Case, "./Assignment4Driver.exe"
